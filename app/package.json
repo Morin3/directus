@@ -126,7 +126,7 @@
 		"jsonlint-mod": "1.7.6",
 		"lodash": "4.17.21",
 		"mapbox-gl": "1.13.3",
-		"maplibre-gl": "1.15.3",
+		"maplibre-gl": "6.4.1",
 		"marked": "12.0.2",
 		"micromustache": "8.0.3",
 		"mime": "4.0.3",
